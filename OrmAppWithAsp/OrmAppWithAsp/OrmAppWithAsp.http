@@ -1,0 +1,6 @@
+@OrmAppWithAsp_HostAddress = http://localhost:5222
+
+GET {{OrmAppWithAsp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
