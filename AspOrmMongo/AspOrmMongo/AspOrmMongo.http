@@ -1,0 +1,6 @@
+@AspOrmMongo_HostAddress = http://localhost:5269
+
+GET {{AspOrmMongo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
